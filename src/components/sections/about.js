@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES14+)', 'React', 'SASS', 'Vite', 'CSS3', 'HTML5'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,47 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              Glad to have you here! My name is Dario, and I love bringing ideas to life on the web.
+              My passion for web development started when I began experimenting with{' '}
+              <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noreferrer">
+                HTML
+              </a>
+              ,{' '}
+              <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" rel="noreferrer">
+                CSS
+              </a>
+              , and{' '}
+              <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
+                JavaScript
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              to create interactive and engaging user experiences.
+            </p>
+
+            <p>
+              Fast-forward to today, I’ve worked on various front-end projects, refining my skills
+              in{' '}
+              <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
+                JavaScript
+              </a>
+              ,{' '}
+              <a target="_blank" href="https://react.dev/learn" rel="noreferrer">
+                React
+              </a>
+              ,{' '}
+              <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" rel="noreferrer">
+                CSS
+              </a>
+              , and modern development tools. My main focus is building efficient, well-structured,
+              and visually compelling web applications while ensuring accessibility and performance.
+            </p>
+
+            <p>
+              I'm also passionate about{' '}
+              <a target="_blank" href="https://en.wikipedia.org/wiki/Astrophysics" rel="noreferrer">
+                Astrophysics
+              </a>
+              , music production and enjoy exploring the intersection between technology and
+              creativity.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

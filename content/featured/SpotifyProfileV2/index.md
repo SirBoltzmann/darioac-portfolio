@@ -1,16 +1,16 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Weather App'
+cover: './demo.png'
+external: 'https://current-weather-dac.netlify.app/'
+cta: 'https://current-weather-dac.netlify.app/'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - JavaScript
+  - API
+  - Open Wheather Map
+  - CSS
+  - HTML
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+A Weather App for visualizing climate information worldwide.
+Search for any country, city, or town, and get instant, accurate weather updates. Powered by the OpenWeatherMap API, this app provides real-time data so you can plan your day with confidence, no matter where you are.

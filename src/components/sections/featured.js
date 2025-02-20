@@ -157,14 +157,15 @@ const StyledProject = styled.li`
     z-index: 2;
     padding: 25px;
     border-radius: var(--border-radius);
-    background-color: var(--light-navy);
-    color: var(--light-slate);
+    background-color: var(--white);
+    color: var(--light-navy);
     font-size: var(--fz-lg);
 
     @media (max-width: 768px) {
       padding: 20px 0;
       background-color: transparent;
       box-shadow: none;
+      color: var(--lightest-slate);
 
       &:hover {
         box-shadow: none;
@@ -173,6 +174,37 @@ const StyledProject = styled.li`
 
     a {
       ${({ theme }) => theme.mixins.inlineLink};
+      color: var(--dark-slate);
+
+      &:hover,
+      &:focus-visible {
+        color: var(--slate);
+
+        & > * {
+          color: var(--slate);
+        }
+      }
+
+      &:after {
+        background-color: var(--slate);
+      }
+
+      @media (max-width: 768px) {
+        color: var(--white);
+
+        &:hover,
+        &:focus-visible {
+          color: var(--green);
+
+          & > * {
+            color: var(--green);
+          }
+        }
+
+        &:after {
+          background-color: var(--green);
+        }
+      }
     }
 
     strong {
@@ -192,7 +224,7 @@ const StyledProject = styled.li`
 
     li {
       margin: 0 20px 5px 0;
-      color: var(--light-slate);
+      color: var(--lightest-slate);
       font-family: var(--font-mono);
       font-size: var(--fz-xs);
       white-space: nowrap;
@@ -250,7 +282,7 @@ const StyledProject = styled.li`
     @media (max-width: 768px) {
       grid-column: 1 / -1;
       height: 100%;
-      opacity: 0.25;
+      opacity: 0.45;
     }
 
     a {
@@ -283,7 +315,8 @@ const StyledProject = styled.li`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        background-color: var(--navy);
+        background-color: var(--dark-navy);
+        border-radius: var(--border-radius);
         mix-blend-mode: screen;
       }
     }
@@ -291,7 +324,7 @@ const StyledProject = styled.li`
     .img {
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
+      filter: grayscale(90%) contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
         object-fit: cover;

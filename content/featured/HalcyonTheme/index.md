@@ -1,15 +1,17 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Polaris'
+cover: './polaris.png'
+github: 'https://github.com/SirBoltzmann/Polaris'
+external: 'https://polaris-team.netlify.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - JavaScript
+  - React
+  - JSX
+  - Vite
+  - CSS
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A trip planning app for discovering your next destination around the globe... or even beyond!
+With [Polaris](https://polaris-team.netlify.app/),
+[interestellar travel](https://en.wikipedia.org/wiki/Interstellar_travel) is now within reach. Ready to explore the cosmos? Start your journey with us, and remember: Our Journey, Our Story.

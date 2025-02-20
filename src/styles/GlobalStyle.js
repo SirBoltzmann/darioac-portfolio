@@ -56,7 +56,7 @@ const GlobalStyle = createGlobalStyle`
     scrollbar-color: var(--dark-slate) var(--navy);
   }
   ::-webkit-scrollbar {
-    width: 12px;
+    width: 15px;
   }
   ::-webkit-scrollbar-track {
     background: var(--navy);
@@ -74,8 +74,8 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: var(--navy);
-    color: var(--slate);
+    background-image: linear-gradient(to right, #361e1d, #482725, #5b302c, #6e3934, #82433b);
+    color: var(--light-slate);
     font-family: var(--font-sans);
     font-size: var(--fz-xl);
     line-height: 1.3;
@@ -165,7 +165,7 @@ const GlobalStyle = createGlobalStyle`
   h6 {
     margin: 0 0 10px 0;
     font-weight: 600;
-    color: var(--lightest-slate);
+    color: var(--white);
     line-height: 1.1;
   }
 

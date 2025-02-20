@@ -17,11 +17,11 @@ const StyledHeader = styled.header`
   padding: 0px 50px;
   width: 100%;
   height: var(--nav-height);
-  background-color: rgba(10, 25, 47, 0.85);
+  background-color: rgba(38, 18, 18, 0.65);
   filter: none !important;
   pointer-events: auto !important;
   user-select: auto !important;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(8px);
   transition: var(--transition);
 
   @media (max-width: 1080px) {
@@ -38,8 +38,8 @@ const StyledHeader = styled.header`
       css`
         height: var(--nav-scroll-height);
         transform: translateY(0px);
-        background-color: rgba(10, 25, 47, 0.85);
-        box-shadow: 0 10px 30px -10px var(--navy-shadow);
+        background-color: rgba(38, 18, 18, 0.65);
+        box-shadow: 0 10px 30px -10px var(--dark-navy);
       `};
 
     ${props =>
@@ -48,7 +48,7 @@ const StyledHeader = styled.header`
       css`
         height: var(--nav-scroll-height);
         transform: translateY(calc(var(--nav-scroll-height) * -1));
-        box-shadow: 0 10px 30px -10px var(--navy-shadow);
+        box-shadow: 0 10px 30px -10px var(--dark-navy);
       `};
   }
 `;
@@ -57,7 +57,7 @@ const StyledNav = styled.nav`
   ${({ theme }) => theme.mixins.flexBetween};
   position: relative;
   width: 100%;
-  color: var(--lightest-slate);
+  color: var(--white);
   font-family: var(--font-mono);
   counter-reset: item 0;
   z-index: 12;
@@ -124,7 +124,7 @@ const StyledLinks = styled.div`
     list-style: none;
 
     li {
-      margin: 0 5px;
+      margin: 0 10px;
       position: relative;
       counter-increment: item 1;
       font-size: var(--fz-xs);
@@ -145,8 +145,9 @@ const StyledLinks = styled.div`
 
   .resume-button {
     ${({ theme }) => theme.mixins.smallButton};
-    margin-left: 15px;
+    margin-left: 35px;
     font-size: var(--fz-xs);
+    border-radius: 10px;
   }
 `;
 

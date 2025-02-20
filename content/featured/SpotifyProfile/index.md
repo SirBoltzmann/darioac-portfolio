@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Stellarium - Courier App'
+cover: './demo2.png'
+github: 'https://github.com/SirBoltzmann/Delivery-app'
+external: 'https://star-delivery-app-sass.netlify.app/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - JavaScript
+  - SASS
+  - CSS
+  - HTML
+  - Netlify
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A courier web app for ordering your favorite products.
+Order whatever you want, whenever you need it, and we’ll deliver it straight to your door. With real-time tracking and strict safety protocols, you can shop with confidence and stay updated on your delivery every step of the way.

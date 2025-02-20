@@ -54,12 +54,12 @@ const mixins = {
   inlineLink: css`
     display: inline-block;
     position: relative;
-    color: var(--green);
+    color: var(--white);
     transition: var(--transition);
 
     &:hover,
     &:focus-visible {
-      color: var(--green);
+      color: var(--white);
       outline: 0;
       &:after {
         width: 100%;

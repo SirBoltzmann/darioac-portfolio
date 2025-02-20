@@ -2,20 +2,20 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
-    --navy: #0a192f;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #495670;
-    --slate: #8892b0;
-    --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
-    --white: #e6f1ff;
-    --green: #64ffda;
-    --green-tint: rgba(100, 255, 218, 0.1);
-    --pink: #f57dff;
-    --blue: #57cbff;
+    --dark-navy: #321716; /* El más oscuro */
+    --navy: #59302e; /* Color oscuro */
+    --light-navy: #6b3835; /* Color intermedio */
+    --lightest-navy: #82433b; /* Color claro */
+    --navy-shadow: #9b5744; /* Color principal */
+    --dark-slate: #b5765a; /* Más brillante */
+    --slate: #bc8663; /* Color vibrante */
+    --light-slate: #c9a180; /* Color suave */
+    --lightest-slate: #dbc3ac; /* Color más claro */
+    --white: #eee2d7; /* Color muy suave */
+    --green: #f9f4f1; /* Color más cercano al blanco */
+    --green-tint: #eee2d7; /* Otro tono claro */
+    --pink: #bc8663; /* Marrón cálido */
+    --blue: #c9a180; /* Marrón pastel */
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
@@ -30,7 +30,7 @@ const variables = css`
     --fz-xxl: 22px;
     --fz-heading: 32px;
 
-    --border-radius: 4px;
+    --border-radius: 12px;
     --nav-height: 100px;
     --nav-scroll-height: 70px;
 
