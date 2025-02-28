@@ -12,6 +12,5 @@ tech:
   - CSS
 ---
 
-A trip planning app for discovering your next destination around the globe... or even beyond!
-With [Polaris](https://polaris-team.netlify.app/),
-[interestellar travel](https://en.wikipedia.org/wiki/Interstellar_travel) is now within reach. Ready to explore the cosmos? Start your journey with us, and remember: Our Journey, Our Story.
+¡Una aplicación de planificación de viajes para descubrir tu próximo destino alrededor del mundo... o incluso más allá!  
+Con [Polaris](https://polaris-team.netlify.app/), los [viajes interestelares](https://es.wikipedia.org/wiki/Viaje_interestelar) ahora están al alcance. ¿Listo para explorar el cosmos? Comienza tu aventura con nosotros, y recuerda: Nuestro Viaje, Nuestra Historia.

@@ -10,4 +10,5 @@ tech:
 showInProjects: true
 ---
 
-Website for Orionis Team, a space travel company. It presents information about the team, services, and missions, reflecting an adventurous and innovative vision of space exploration.
+Sitio web para Orionis Team, una compañía tecnológica interestelar.  
+Muestra información sobre el equipo, servicios y misiones, reflejando una visión aventurera e innovadora de la exploración espacial.

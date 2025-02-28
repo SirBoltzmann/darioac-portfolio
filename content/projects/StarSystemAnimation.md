@@ -9,4 +9,5 @@ tech:
 showInProjects: true
 ---
 
-An interactive web experience featuring a dynamic visualization of the Alpha Centauri star system. It uses smooth animations and modern web technologies to bring celestial motion to life.
+Una experiencia web interactiva que presenta una visualización dinámica del sistema estelar Alfa Centauri.  
+Utiliza animaciones fluidas y tecnologías web modernas para dar vida al movimiento celestial.

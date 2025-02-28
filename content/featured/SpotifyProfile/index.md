@@ -12,5 +12,5 @@ tech:
   - Netlify
 ---
 
-A courier web app for ordering your favorite products.
-Order whatever you want, whenever you need it, and we’ll deliver it straight to your door. With real-time tracking and strict safety protocols, you can shop with confidence and stay updated on your delivery every step of the way.
+Una aplicación web de courier para pedir tus productos favoritos.  
+Ordena lo que quieras, cuando lo necesites, y lo entregaremos directamente en tu puerta. Con seguimiento en tiempo real y estrictos protocolos de seguridad, puedes comprar con confianza y estar al tanto de tu entrega en cada paso del camino.

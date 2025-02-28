@@ -129,32 +129,44 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Sobre mí</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Glad to have you here! My name is Dario, and I love bringing ideas to life on the web.
-              My passion for web development started when I began experimenting with{' '}
-              <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noreferrer">
+              ¡Me alegra que estés aquí! Mi nombre es Dario y me encanta dar vida a las ideas en la
+              web. Mi pasión por el desarrollo web comenzó cuando empecé a experimentar con{' '}
+              <a
+                target="_blank"
+                href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+                rel="noreferrer">
                 HTML
               </a>
               ,{' '}
-              <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" rel="noreferrer">
+              <a
+                target="_blank"
+                href="https://developer.mozilla.org/es/docs/Web/CSS"
+                rel="noreferrer">
                 CSS
               </a>
-              , and{' '}
-              <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
+              , y{' '}
+              <a
+                target="_blank"
+                href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                rel="noreferrer">
                 JavaScript
               </a>{' '}
-              to create interactive and engaging user experiences.
+              para crear experiencias de usuario interactivas y atractivas.
             </p>
 
             <p>
-              Fast-forward to today, I’ve worked on various front-end projects, refining my skills
-              in{' '}
-              <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
+              Avanzando hasta el presente, he trabajado en diversos proyectos de front-end,
+              perfeccionando mis habilidades en{' '}
+              <a
+                target="_blank"
+                href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                rel="noreferrer">
                 JavaScript
               </a>
               ,{' '}
@@ -162,23 +174,27 @@ const About = () => {
                 React
               </a>
               ,{' '}
-              <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" rel="noreferrer">
+              <a
+                target="_blank"
+                href="https://developer.mozilla.org/es/docs/Web/CSS"
+                rel="noreferrer">
                 CSS
               </a>
-              , and modern development tools. My main focus is building efficient, well-structured,
-              and visually compelling web applications while ensuring accessibility and performance.
+              , y herramientas modernas de desarrollo. Mi enfoque principal es construir
+              aplicaciones web eficientes, bien estructuradas y visualmente atractivas, asegurando
+              siempre accesibilidad y rendimiento.
             </p>
 
             <p>
-              I'm also passionate about{' '}
+              También me apasiona la{' '}
               <a target="_blank" href="https://en.wikipedia.org/wiki/Astrophysics" rel="noreferrer">
-                Astrophysics
+                Astrofísica
               </a>
-              , music production and enjoy exploring the intersection between technology and
-              creativity.
+              , la producción musical y disfruto explorando la intersección entre tecnología y
+              creatividad.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Aquí hay algunas tecnologías con las que he estado trabajando recientemente:</p>
           </div>
 
           <ul className="skills-list">

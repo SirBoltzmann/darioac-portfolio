@@ -11,4 +11,5 @@ tech:
 showInProjects: true
 ---
 
-A space-themed landing page with immersive animations and a futuristic design. It showcases the mysteries of the cosmos while highlighting the excitement of space exploration.
+Una landing page con temática espacial, animaciones inmersivas y un diseño futurista.  
+Muestra los misterios del cosmos mientras destaca la emoción de la exploración espacial.

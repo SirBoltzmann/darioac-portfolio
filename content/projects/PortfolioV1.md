@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-An old portfolio built with vanila JS and one of my first projects ever.
+Un antiguo portafolio y uno de mis primeros proyectos, construido con Vanilla JS.

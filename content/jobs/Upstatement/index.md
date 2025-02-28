@@ -1,13 +1,14 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2024-06-01'
+title: 'Software Developer'
+company: 'Personal'
+location: 'Chancay, Lima'
+range: 'July 2024 - Present'
+url: ''
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Desarrollando proyectos personales enfocados en el frontend para fortalecer habilidades en HTML, CSS, JavaScript y React.
+- Explorando nuevas tecnologías y herramientas como SASS y frameworks JavaScript para crear interfaces modernas y eficientes.
+- Mejorando la experiencia de usuario mediante prácticas de responsive design y optimización de rendimiento.
+- Colaborando con la comunidad de desarrolladores a través de GitHub para compartir código y recibir retroalimentación constructiva.
+- Enfocado en el crecimiento profesional mediante el aprendizaje continuo y la aplicación de mejores prácticas de desarrollo web.

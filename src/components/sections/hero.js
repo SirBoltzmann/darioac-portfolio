@@ -64,16 +64,16 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Hola, mi nombre es</h1>;
   const two = <h2 className="big-heading">Dario Arica.</h2>;
-  const three = <h3 className="big-heading">I'm a Front-End Developer.</h3>;
+  const three = <h3 className="big-heading">Soy Desarrollador Front-End.</h3>;
   const four = (
     <>
       <p>
-        Passionate about creating modern, efficient, and responsive web applications. I specialize
-        in frontend development using HTML, CSS, SASS, JavaScript, and ReactJS focusing on
-        delivering intuitive user experiences. Always eager to learn and explore new technologies to
-        solve real-world problems.
+        Apasionado por crear aplicaciones web modernas, eficientes y responsivas. Me especializo en
+        el desarrollo frontend utilizando HTML, CSS, SASS, JavaScript y ReactJS, enfocándome en
+        ofrecer experiencias de usuario intuitivas. Siempre dispuesto a aprender y explorar nuevas
+        tecnologías para resolver problemas del mundo real.
       </p>
     </>
   );
@@ -83,7 +83,7 @@ const Hero = () => {
       href="https://www.linkedin.com/in/dario-arica-camacho-60ab822ba/"
       target="_blank"
       rel="noreferrer">
-      Get in Touch
+      Contáctame
     </a>
   );
 

@@ -48,6 +48,10 @@ const StyledCredit = styled.div`
 
   a {
     padding: 10px;
+
+    &:hover {
+      color: var(--lightest-slate);
+    }
   }
 
   .github-stats {

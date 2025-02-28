@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-An interactive RPG game made with vanilla JS.
+Un juego RPG interactivo hecho con Vanilla JS.
