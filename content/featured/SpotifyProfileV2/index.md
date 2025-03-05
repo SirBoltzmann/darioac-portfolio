@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Weather App'
-cover: './demo.png'
+cover: ./demo.webp
 external: 'https://current-weather-dac.netlify.app/'
 cta: 'https://current-weather-dac.netlify.app/'
 tech:

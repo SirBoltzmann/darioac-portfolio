@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Polaris'
-cover: './polaris.png'
+cover: ./polaris.webp
 github: 'https://github.com/SirBoltzmann/Polaris'
 external: 'https://polaris-team.netlify.app/'
 tech:

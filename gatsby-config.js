@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Dario Arica is a software developer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://darioarica.netlify.app', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/og.webp', // Path to your image you placed in the 'static' folder
     twitterUsername: '@',
   },
   plugins: [

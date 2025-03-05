@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Stellarium - Courier App'
-cover: './demo2.png'
+cover: ./demo2.webp
 github: 'https://github.com/SirBoltzmann/Delivery-app'
 external: 'https://star-delivery-app-sass.netlify.app/'
 tech:
