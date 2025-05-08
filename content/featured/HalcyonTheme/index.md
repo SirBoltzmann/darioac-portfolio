@@ -1,16 +1,17 @@
 ---
 date: '1'
-title: 'Polaris'
-cover: ./polaris.webp
-github: 'https://github.com/SirBoltzmann/Polaris'
-external: 'https://polaris-team.netlify.app/'
+title: 'Galactic Fragility'
+cover: ./galactic-fragility.webp
+github: 'https://github.com/SirBoltzmann/galactic-fragility'
+external: 'https://galactic-fragility.netlify.app/'
 tech:
-  - JavaScript
   - React
-  - JSX
   - Vite
   - CSS
+  - Netlify Functions
+  - AstronomyAPI
 ---
 
-¡Una aplicación de planificación de viajes para descubrir tu próximo destino alrededor del mundo... o incluso más allá!  
-Con [Polaris](https://polaris-team.netlify.app/), los [viajes interestelares](https://es.wikipedia.org/wiki/Viaje_interestelar) ahora están al alcance. ¿Listo para explorar el cosmos? Comienza tu aventura con nosotros, y recuerda: Nuestro Viaje, Nuestra Historia.
+¡Una aplicación para ver más allá del cielo nocturno y maravillarte con la fragilidad del cosmos!
+[Galactic Fragility](https://galactic-fragility.netlify.app/) te invita a explorar rutas espaciales reales, descubrir la danza de los planetas y soñar con viajes más allá de las estrellas.  
+¿Listo para embarcarte en esta travesía? Observa el universo desde otra perspectiva...

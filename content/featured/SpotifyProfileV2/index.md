@@ -1,16 +1,17 @@
 ---
 date: '3'
-title: 'Weather App'
+title: 'Stellarium - Courier App'
 cover: ./demo.webp
-external: 'https://current-weather-dac.netlify.app/'
-cta: 'https://current-weather-dac.netlify.app/'
+github: 'https://github.com/SirBoltzmann/Delivery-app'
+external: 'https://star-delivery-app-sass.netlify.app/'
+cta: 'https://star-delivery-app-sass.netlify.app/'
 tech:
   - JavaScript
-  - API
-  - Open Wheather Map
+  - SASS
   - CSS
   - HTML
+  - Netlify
 ---
 
-Una aplicación de climas para visualizar información meteorológica en todo el mundo.  
-Busca cualquier país, ciudad o pueblo y obtén actualizaciones meteorológicas precisas al instante. Impulsada por la API de OpenWeatherMap, esta aplicación proporciona datos en tiempo real para que puedas planificar tu día con confianza, sin importar dónde estés.
+Una aplicación web de courier para pedir tus productos favoritos.  
+Ordena lo que quieras, cuando lo necesites, y lo entregaremos directamente en tu puerta. Con seguimiento en tiempo real y estrictos protocolos de seguridad, puedes comprar con confianza y estar al tanto de tu entrega en cada paso del camino.
