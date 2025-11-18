@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Galactic Fragility'
 cover: ./galactic-fragility.webp
 github: 'https://github.com/SirBoltzmann/galactic-fragility'
